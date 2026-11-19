@@ -1,0 +1,20 @@
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Secrets and local files
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+secrets.json
+
+# Windows
+Thumbs.db
+desktop.ini
